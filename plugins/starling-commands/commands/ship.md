@@ -1,3 +1,7 @@
+---
+description: Commit everything (including project bookkeeping), push to main, and chase CI until it's green
+---
+
 Commit everything, push to main, and chase CI until it's green. Don't stop until it ships or you're genuinely blocked.
 
 Here is the current state of the repo:

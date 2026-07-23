@@ -1,3 +1,7 @@
+---
+description: Review the code just changed for opportunities to simplify — dead code, duplication, over-engineering
+---
+
 Review the code I just changed for opportunities to simplify.
 
 ```bash

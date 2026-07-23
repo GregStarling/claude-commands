@@ -1,7 +1,7 @@
 {
   "name": "starling-commands",
   "description": "Workflow commands for Claude Code: /delegate (CTO-mode orchestration), /repro (failing-test-first bug fixing), /ship (push and chase CI until green), /catchup (repo re-orientation), /verify, /simplify, and /commit-push-pr.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "Greg Starling"
   }

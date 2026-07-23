@@ -1,3 +1,7 @@
+---
+description: Commit, push, and create a PR for the current changes
+---
+
 Commit, push, and create a PR for the current changes.
 
 Here is the current state of the repo:

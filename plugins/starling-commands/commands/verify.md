@@ -1,3 +1,7 @@
+---
+description: Verify the current changes work correctly end-to-end
+---
+
 Verify the current changes work correctly end-to-end.
 
 ```bash

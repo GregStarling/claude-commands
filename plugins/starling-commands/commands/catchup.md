@@ -1,3 +1,7 @@
+---
+description: Read-only re-orientation in a repo — what happened since it was last touched, what's in flight, and what's next
+---
+
 Re-orient me in this repo: what happened since it was last touched, what's in flight, and what's next. Read-only — change nothing, commit nothing.
 
 ## Gather
