@@ -1,0 +1,13 @@
+{
+  "name": "starling",
+  "owner": {
+    "name": "Greg Starling"
+  },
+  "plugins": [
+    {
+      "name": "starling-commands",
+      "source": "./plugins/starling-commands",
+      "description": "Greg Starling's workflow commands: orchestrated delegation, disciplined bug fixing, ship-until-green, and session re-orientation."
+    }
+  ]
+}
