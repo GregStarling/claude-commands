@@ -1,5 +1,6 @@
 {
   "name": "starling",
+  "description": "Greg Starling's Claude Code marketplace — workflow commands for orchestrated delegation, disciplined bug fixing, and shipping.",
   "owner": {
     "name": "Greg Starling"
   },
